@@ -1,0 +1,12 @@
+purpose,target_low_mg,target_high_mg,basis,notes,reference_ids
+Population adequacy (no specific indication),250,250,EFSA adequate intake,"Equivalent to roughly two 4-oz servings of fatty fish per week; the basis for the EU heart claim.",R46;R10
+Primary prevention in healthy adults,0,1000,"VITAL, ASCEND, Cochrane","No proven reduction in the primary composite. If a person takes 1 g/day, expect a possible MI reduction and no mortality benefit.",R01;R04;R05
+Secondary prevention after myocardial infarction,1000,1000,"AHA and trial practice","Around 1 g/day is the dose used in most secondary-prevention trials; benefits are modest and mainly coronary.",R05;R09
+Triglyceride lowering (moderate hypertriglyceridaemia),2000,4000,"AHA 2019 science advisory","4 g/day gives 20-30%; 2 g/day gives roughly half that. Must be discussed with a clinician if TG >500 mg/dL.",R09
+Severe hypertriglyceridaemia (>=500 mg/dL),4000,4000,"AHA 2019; prescription products","Goal is TG <500 mg/dL to reduce pancreatitis risk. Prescription icosapent ethyl or omega-3-acid ethyl esters, not supplements.",R09;R02
+Pregnancy (preterm birth risk reduction),500,1000,"Cochrane 2018; expert summary","At least 500 mg DHA, started by about 12 weeks. ORIP (800 mg DHA) was null, so benefit is not universal.",R91;R94
+Depression (adjunct only),1000,2000,"Meta-analysis and meta-regression","EPA-predominant formulations; never a substitute for evidence-based treatment. Low certainty.",R70;R72
+Rheumatoid arthritis (adjunct),2700,3000,"Older positive trials","Trials showing NSAID-sparing used >=2.7 g/day; modern certainty-rated reviews find little clinical benefit.",R82;R83
+Dry eye disease,3000,3000,"DREAM trial","Tested and null at 3 g/day. Not recommended on current evidence.",R87
+Older adults seeking muscle preservation,2000,3000,"Small RCTs","Effects are small and inconsistent; resistance training and protein intake matter far more.",R84;R85;R86
+General upper safety bound,0,5000,"FDA 2019; EFSA 2012","No UL exists. Up to 5 g/day has FDA enforcement discretion for safety; above 5 g/day the evidence is insufficient.",R50;R47

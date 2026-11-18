@@ -1,0 +1,12 @@
+id,parameter,limit_value,unit,applies_to,source_id,notes
+QS-01,Peroxide value,5,meq O2/kg,Bulk and encapsulated fish oil,R23;R24,GOED Monograph and Codex CXS 329-2017
+QS-02,p-Anisidine value,20,index,Bulk and encapsulated fish oil,R23;R24,Not valid for flavoured oils
+QS-03,TOTOX,26,index,Bulk and encapsulated fish oil,R23;R24,Calculated as (2 x peroxide value) + p-anisidine value
+QS-04,Acid value,3,mg KOH/g,Fish oil,R24,Codex CXS 329-2017
+QS-05,Mercury (food supplements),0.10,mg/kg,Food supplements,R33,EU maximum level
+QS-06,Dioxins,1.75,pg WHO-TEQ/g fat,Marine oils for final consumer,R33,EU maximum level
+QS-07,Dioxins plus dioxin-like PCBs,6.0,pg WHO-PCDD/F-PCB-TEQ/g fat,Marine oils for final consumer,R33,EU maximum level
+QS-08,Non-dioxin-like PCBs (ICES-6),200,ng/g fat,Marine oils for final consumer,R33,EU maximum level
+QS-09,Mercury,0.1,mg/kg,Fish oil,R35,Industry specification; measured mean 0.0005 mg/kg across 792 samples
+QS-10,Polychlorinated biphenyls,90,ppb,Fish oil,R35,Industry specification
+QS-11,Dioxins,3,pg TEQ/g,Fish oil,R35,Industry specification

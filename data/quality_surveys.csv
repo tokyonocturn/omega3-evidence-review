@@ -1,0 +1,12 @@
+id,study,market,year_sampled,n_products,parameter,result,unit,source_id,notes
+SQ-01,"Albert et al., Sci Rep",New Zealand,2014,32,TOTOX exceedance,50,percent,R25,18 of 36 in the full sample; 83% exceeded peroxide value; only 3 of 32 met labelled EPA+DHA
+SQ-02,"Albert et al., Sci Rep",New Zealand,2014,32,Peroxide value exceedance,83,percent,R25,25% exceeded p-anisidine; only 8% met all three oxidation limits
+SQ-03,"Bannenberg et al., Nutrients",Australia and New Zealand,2016,10,TOTOX exceedance,0,percent,R28,All 10 met peroxide value; EPA+DHA averaged 109% of label
+SQ-04,"Jackowski et al., J Nutr Sci",Canada,2013,171,Any oxidation marker exceedance,50,percent,R26,39% exceeded TOTOX; unflavoured softgels outperformed bulk and flavoured oils
+SQ-05,"Bannenberg et al., J Food Compos Anal",United States,2018,48,TOTOX exceedance (unflavoured),13,percent,R27,Mean TOTOX 19.2; 87% of unflavoured products complied
+SQ-06,"J Diet Suppl survey",United States,2014-2020,72,TOTOX exceedance (flavoured),68,percent,R29,13% of unflavoured products exceeded; flavouring invalidates the anisidine assay
+SQ-07,"PLoS One survey",United Arab Emirates,2019,44,Peroxide value exceedance,40.9,percent,R30,Mean TOTOX 23.8 (95% CI 17.4-30.3)
+SQ-08,"Int J Food Sci Nutr survey",Australia,2018,26,TOTOX exceedance,33,percent,R31,38% exceeded peroxide value
+SQ-09,"GOED Randomized Testing Program",Global (members),2023,20,Peroxide value exceedance,20,percent,R123,All 20 met labelled omega-3; one exceeded p-anisidine; member-only sample
+SQ-10,"Bannenberg et al., J Food Compos Anal",United States,2018,42,Label claim below 80 percent,0,percent,R27,Mean EPA+DHA 102% of label; 59.5% at or above label
+SQ-11,"Fernandes et al., Food Addit Contam",United Kingdom,2000-2002,33,Dioxin limit exceedance (then-current 2 ng/kg),36,percent,R34,12 of 33; sum PCDD/F 0.18-8.4 ng/kg WHO-TEQ
