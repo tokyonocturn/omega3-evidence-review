@@ -114,8 +114,9 @@ product with a declared EPA+DHA amount and a reasonable cost per gram
   ([R48](references.md)).
 - **Above 5 g/day** the safety evidence is insufficient, and atrial fibrillation
   risk rises with dose.
-- **Vitamin A:** the adult upper limit is 3,000 mcg RAE/day; cod liver oil can
-  supply 85% of it in one teaspoon ([R59](references.md)).
+- **Vitamin A:** the adult upper limit is 3,000 mcg RAE/day. Carlson's cod liver
+  oil supplies 8.5% of it per teaspoon, typical cod liver oils about 45%, and
+  high-vitamin products can exceed the limit ([R59](references.md)).
 - **Vitamin D:** the adult upper limit is 4,000 IU/day (100 mcg)
   ([R58](references.md)).
 

@@ -93,7 +93,7 @@ change.
 | Budget, widely available | **NOW Ultra Omega-3** ($0.41/g) | EE, 750 mg per softgel, ubiquitous |
 | Sport / drug-tested | **Thorne Super EPA** ($0.72/g) | NSF Certified for Sport, but expensive and low dose per capsule |
 | Vegan | **Deva Vegan Omega-3** ($1.18/g) | Cheapest algal in the sample; guaranteed minimums used |
-| Cod liver oil (if wanted) | **Carlson Cod Liver Oil** ($1.05/g) | IFOS; but note 85% of vitamin A UL per teaspoon |
+| Cod liver oil (if wanted) | **Carlson Cod Liver Oil** ($1.05/g) | IFOS; vitamin A 8.5% of UL per tsp (typical CLO ~45%) |
 | Krill (only if specifically wanted) | **Sports Research Krill** ($2.83/g) | MSC, IKOS; still 6-9× fish oil per gram |
 
 **Not recommended on value:** MegaRed krill ($4.59/g), iWi algal ($4.53/g), and

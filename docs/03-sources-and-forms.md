@@ -97,10 +97,10 @@ the whole issue.
 
 A typical 5 mL teaspoon of a leading brand supplies about **370 mg EPA + 500 mg
 DHA** — a moderate dose — plus **255 mcg RAE of vitamin A** and 10 mcg (400 IU)
-of vitamin D ([R57](references.md)). The vitamin A is **85% of the adult upper
-limit** (3,000 mcg RAE/day) in a single teaspoon, before any other vitamin A in
-the diet ([R59](references.md)). "High-vitamin" cod liver oils can be several
-times higher.
+of vitamin D ([R57](references.md)). The vitamin A is **8.5% of the adult upper limit** (3,000 mcg RAE/day) in a
+single teaspoon for this product — but typical cod liver oils supply about
+1,350 mcg RAE per teaspoon, roughly **45% of the upper limit**, and
+"high-vitamin" cod liver oils can exceed it ([R59](references.md)).
 
 Documented hypervitaminosis A from cod liver oil exists, including a
 haemodialysis patient who took up to nine cod liver oil tablets daily for one to

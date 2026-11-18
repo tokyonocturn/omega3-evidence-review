@@ -28,6 +28,14 @@ The format follows Keep a Changelog; versions use semantic versioning.
 - Methodology, dosage, safety, quality, sourcing, brand and regulation chapters,
   plus a one-page verdict.
 
+### Fixed
+
+- Corrected the cod liver oil vitamin A figure before final publication: 255 mcg
+  RAE per teaspoon is **8.5%** of the 3,000 mcg RAE adult upper limit, not 85%.
+  The comparison was replaced with the accurate one: typical cod liver oils
+  supply about 1,350 mcg RAE per teaspoon (45% of the UL), and high-vitamin
+  products can exceed it. This changes no other conclusion.
+
 ### Notes
 
 - Prices are US one-time retail snapshots and exclude tax and shipping;

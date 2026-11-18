@@ -85,9 +85,10 @@ This is the specific hazard of **cod liver oil**, and it is under-appreciated.
 
 - Adult upper limit for preformed vitamin A: **3,000 mcg RAE/day**
   ([R57](references.md), [R59](references.md)).
-- A leading cod liver oil supplies **255 mcg RAE per teaspoon — 85% of the UL** —
-  before any other dietary vitamin A ([R57](references.md)).
-- "High-vitamin" cod liver oils can supply several times more.
+- A leading cod liver oil supplies **255 mcg RAE per teaspoon — 8.5% of the
+  UL** ([R57](references.md)).
+- Typical cod liver oils supply about **1,350 mcg RAE per teaspoon (45% of the
+  UL)**, and "high-vitamin" products can exceed the limit.
 - Documented cases of hypervitaminosis A from cod liver oil exist, including
   hypercalcaemia and serum retinol 220 µg/dL after 1-2 months of high-dose tablets
   ([R56](references.md)).

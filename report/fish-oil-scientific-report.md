@@ -42,8 +42,8 @@ for the same nutrient.**
 - Oxidation above voluntary limits is common in some markets and product
   formats — up to 50-83% of products in New Zealand and Canadian surveys — but
   uncommon in unflavoured US softgels.
-- **Cod liver oil can supply 85% of the adult vitamin A upper limit in one
-  teaspoon.**
+- **Cod liver oil carries vitamin A: 8.5-45% of the adult upper limit per
+  teaspoon depending on the product, and high-vitamin versions can exceed it.**
 
 ### The practical verdict
 
@@ -204,7 +204,7 @@ in most of the market.
 
 Cod liver oil is fish oil plus the liver's vitamin stores. A leading product
 supplies **370 mg EPA + 500 mg DHA per teaspoon**, plus **255 mcg RAE vitamin A**
-— **85% of the adult upper limit** — and 400 IU vitamin D ([R57](../docs/references.md)).
+— **8.5% of the adult upper limit** for this product, though typical cod liver oils are closer to 45% — and 400 IU vitamin D ([R57](../docs/references.md)).
 "High-vitamin" products can be several times higher. Documented hypervitaminosis
 A from cod liver oil exists ([R56](../docs/references.md)). It should be treated as a
 combined vitamin A/D/omega-3 product, not a generic fish oil.
@@ -484,8 +484,9 @@ See §4.4. This is the main reason not to escalate the dose without a reason.
 
 - Adult vitamin A UL: **3,000 mcg RAE/day** ([R57](../docs/references.md),
   [R59](../docs/references.md)).
-- Cod liver oil: **255 mcg RAE per teaspoon** in a leading product — 85% of the
-  UL ([R57](../docs/references.md)).
+- Cod liver oil: **255 mcg RAE per teaspoon** in a leading product — 8.5% of the
+  UL, but typical cod liver oils supply about 45% and high-vitamin products can
+  exceed it ([R57](../docs/references.md)).
 - Vitamin A is teratogenic; avoid cod liver oil in pregnancy.
 - Vitamin D UL: **4,000 IU/day** ([R58](../docs/references.md)).
 - Hypervitaminosis A from cod liver oil is documented ([R56](../docs/references.md)).

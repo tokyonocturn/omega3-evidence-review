@@ -87,7 +87,7 @@ inherently more expensive per gram than fish oil; that is a real trade-off, not 
 markup.
 
 **Cod liver oil:** **Carlson** ($1.05/g, IFOS) is well tested, but one teaspoon
-supplies 85% of the adult vitamin A upper limit. Treat it as a vitamin product.
+supplies 8.5% of the adult vitamin A upper limit per teaspoon, typical cod liver oils about 45%, and high-vitamin versions can exceed it. Treat it as a vitamin product.
 
 **Poor value:** **MegaRed krill** ($4.59/g), **iWi algal** ($4.53/g) and
 **Ovega-3** ($2.25/g). They are not fake; they are simply expensive per gram of

@@ -31,7 +31,7 @@ products do not provide, and at prices that vary 21-fold for the same nutrient.*
 | Which formulation? | **Concentrated fish oil.** rTG is modestly better absorbed; EE is cheaper; a fatty meal narrows the gap. Krill is 6–15× the cost per gram. | Moderate |
 | How much? | **250 mg/day** for adequacy; **~1 g/day** for primary prevention; **2–4 g/day** for triglycerides. The median US product delivers only **600 mg/day**. | High |
 | Is it safe? | **Yes at ≤3 g/day for most people.** Main signal: atrial fibrillation at higher doses (HR 1.49 above 1 g/day). Bleeding risk is small (RR 1.09). | Moderate–High |
-| Who should avoid a formulation? | **Cod liver oil** in pregnancy or with vitamin A intake (85% of the UL per teaspoon); **DHA-dominant** products with high LDL; **high doses** with prior AF. | Moderate |
+| Who should avoid a formulation? | **Cod liver oil** in pregnancy or with vitamin A intake (8.5–45% of the UL per teaspoon; high-vitamin products can exceed it); **DHA-dominant** products with high LDL; **high doses** with prior AF. | Moderate |
 | Best value? | **Viva Naturals Triple Strength** and **Sports Research Triple Strength**, about **$0.30–0.31 per gram of EPA+DHA**, IFOS-tested. | Price snapshot |
 | Worst value? | **Krill oil at $2.83–4.59/g** and some algal oils at $2.25–4.53/g — 8–21× the cheapest fish oil for the same nutrient. | Price snapshot |
 
