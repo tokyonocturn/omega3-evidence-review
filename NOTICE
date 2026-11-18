@@ -1,0 +1,34 @@
+Content license
+===============
+
+The written report, documentation, and datasets in this repository
+(everything except the Python code) are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt the material for any purpose, including commercially,
+provided you give appropriate credit, link to the license, and indicate
+whether changes were made.
+
+The Python code in `analysis/` is licensed under the MIT License; see
+`LICENSE`.
+
+Medical disclaimer
+------------------
+
+This repository is an evidence review, not medical advice. It is not a
+substitute for consultation with a qualified clinician, especially for people
+with cardiovascular disease, high triglycerides, bleeding disorders, liver
+disease, who are pregnant or breastfeeding, who take anticoagulant or
+antiplatelet medication, or who are considering doses above 3 g/day of
+EPA+DHA. Product prices, labels, formulations and certifications change;
+verify them at the source before purchase.
+
+Data disclaimer
+---------------
+
+No product in this repository was assayed by the authors. EPA and DHA values
+are label values, and quality conclusions rely on published independent
+testing and certification documentation. Label values can differ from
+measured content.

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset or report, cite it as below."
+title: "Fish Oil and Omega-3 Supplements: An Independent Evidence Review and Product Database"
+abstract: >-
+  A structured review of EPA and DHA supplementation covering biology,
+  formulation and bioavailability, cardiovascular and metabolic outcomes,
+  cognition, mental health, joints, pregnancy, safety, oxidation, contaminants,
+  certification, sourcing and sustainability. Includes a 20-product cost database
+  normalised to cost per gram of labelled EPA+DHA, 70 graded evidence rows, 35
+  adjudicated claims, and a validation pipeline.
+authors:
+  - family-names: "Edwards"
+    given-names: "Kevin"
+    email: "kevinedwards7289@gmail.com"
+date-released: "2026-11-18"
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/tokyonocturn/omega3-evidence-review"
+keywords:
+  - omega-3
+  - fish oil
+  - EPA
+  - DHA
+  - krill oil
+  - algal oil
+  - supplement quality
+  - evidence synthesis
+  - dosage
